@@ -65,6 +65,7 @@ O estudo comparou **4 lojas** considerando:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/jonathanmesquita/nome-do-repositorio.git
+   git clone https://github.com/jonathanmesquita/Challenge--Alura-Store
+
 
 
