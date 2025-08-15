@@ -1,57 +1,70 @@
-📊 Análise de Dados — Alura Store
+<p align="center">
+  <img alt="Logo do projeto" src="./_docs/logo.png" />
+</p>
 
-Objetivo:
-Identificar qual loja da rede Alura Store apresenta o melhor potencial para venda, com base em métricas estratégicas de faturamento, categorias de produto, avaliação dos clientes e custos de frete.
+# 📊 Análise de Dados — Alura Store
 
-🔍 Escopo da Análise
+Análise estratégica para identificar **qual loja da rede Alura Store** apresenta o melhor potencial para venda, considerando métricas de faturamento, categorias de produtos, avaliação dos clientes e custos de frete.
 
-O estudo comparou 4 lojas considerando:
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Análise de Dados — Alura Store**
+| :label: Tecnologias    | Python, Pandas, Jupyter Notebook
+| :rocket: URL           | *(opcional: link para demo ou relatório final)*
+| :fire: Desafio         | [Alura - Análise de Dados](https://cursos.alura.com.br/)
 
-📈 Faturamento total
+---
 
-🛍 Categorias mais vendidas
+## Preview
 
-⭐ Avaliação média dos clientes
+<p align="center">
+  <img alt="Preview do projeto" src="./_docs/preview.png"/>
+</p>
 
-📦 Produtos mais e menos vendidos
+---
 
-🚚 Custo médio de frete
+## 🔍 Escopo da Análise
 
-📊 Principais Resultados
-Faturamento
-Loja	Valor (R$)
-Loja 1	1.534.509,12
-Loja 2	1.488.459,06
-Loja 3	1.464.025,03
-Loja 4	1.384.497,58
+O estudo comparou **4 lojas** considerando:
 
-💡 Insight: Loja 1 tem o maior faturamento, mas com diferença pequena (3%) em relação à Loja 2.
+- 📈 **Faturamento total**
+- 🛍 **Categorias mais vendidas**
+- ⭐ **Avaliação média dos clientes**
+- 📦 **Produtos mais e menos vendidos**
+- 🚚 **Custo médio de frete**
 
-Categorias Líderes
+---
 
-Móveis e Eletrônicos dominam as vendas em todas as lojas.
+## 📊 Principais Resultados
 
-Loja 4 apresenta baixo desempenho em Eletrodomésticos.
+### **Faturamento**
+| Loja   | Valor (R$)   |
+|--------|--------------|
+| Loja 1 | 1.534.509,12 |
+| Loja 2 | 1.488.459,06 |
+| Loja 3 | 1.464.025,03 |
+| Loja 4 | 1.384.497,58 |
 
-Avaliações e Frete
+💡 **Insight:** Loja 1 tem o maior faturamento, mas com diferença pequena (3%) em relação à Loja 2.
 
-Loja 3 possui melhor avaliação média (4,05).
+---
 
-Loja 1 apresenta frete mais caro e pior avaliação média.
+### **Categorias Líderes**
+- **Móveis** e **Eletrônicos** dominam as vendas em todas as lojas.  
+- Loja 4 apresenta baixo desempenho em **Eletrodomésticos**.
 
-🚀 Como Executar a Análise
+---
 
-Clone este repositório:
+### **Avaliações e Frete**
+- Loja 3 possui **melhor avaliação média** (4,05).  
+- Loja 1 apresenta **frete mais caro** e **pior avaliação média**.
 
-git clone https://github.com/jonathanmesquita/nome-do-repositorio.git
+---
+
+## 🚀 Como Executar a Análise
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/jonathanmesquita/nome-do-repositorio.git
 
 
-Abra analise_lojas.ipynb no Jupyter Notebook.
-
-Execute as células em sequência para gerar gráficos e tabelas.
-
-📌 Conclusão
-
-A Loja 1 é a recomendada para venda devido ao alto faturamento, mas apresenta riscos estratégicos relacionados à satisfação do cliente e custo logístico.
-
-Se quiser, posso gerar também uma versão com badges e ícones de tecnologias usadas, para dar um visual mais moderno no GitHub e passar mais credibilidade. Isso chama muito mais atenção para o projeto.
